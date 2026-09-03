@@ -23,7 +23,7 @@ Students will be able to add their courses and assignments, enter due dates, and
 
 ## Project Documents
 
-This repository will also contain the documents we create throughout the capstone project, including our:
+This repository will also contain the documents we create throughout our capstone project, including our:
 
 - Team Charter
 - System Vision Document
